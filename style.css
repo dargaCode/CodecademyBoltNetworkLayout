@@ -21,6 +21,12 @@ html {
   margin: 0 auto;
 }
 
+p {
+  font-size: 18px;
+  margin: 10px 0;
+  padding: 0;
+}
+
 /*CLEARFIX*/
 
 .footer:after {
@@ -68,13 +74,6 @@ h5 {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/feature.jpg") no-repeat center;
   background-size: cover;
 }
-
-.banner p {
-  font-size: 18px;
-  margin: 10px 0;
-  padding: 0;
-}
-
 
 /*FOOTER*/
 
