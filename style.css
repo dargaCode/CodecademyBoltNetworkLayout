@@ -21,6 +21,14 @@ html {
   margin: 0 auto;
 }
 
+/*CLEARFIX*/
+
+.footer:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
 /*HEADINGS*/
 
 h1,
