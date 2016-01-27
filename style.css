@@ -66,6 +66,14 @@ h5 {
   padding: 0;
 }
 
+/*GALLERY*/
+
+.gallery {
+  padding: 100px 0;
+  background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/diagmonds_@2X.png");
+  background-size: 141px 142px;
+}
+
 /*BANNER*/
 
 .banner {
