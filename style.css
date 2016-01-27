@@ -69,6 +69,15 @@ h5 {
 
 /*FOOTER*/
 
+.footer {
+  padding: 60px 0;
+}
+
+.footer .column {
+  width: 25%;
+  float: left;
+}
+
 .footer ul {
   list-style: none;
   margin: 0;
