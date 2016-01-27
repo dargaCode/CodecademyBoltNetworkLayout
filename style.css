@@ -52,6 +52,22 @@ h5 {
   padding: 0;
 }
 
+/*BANNER*/
+
+.banner {
+  height: 380px;
+  padding: 155px 0;
+  background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/feature.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.banner p {
+  font-size: 18px;
+  margin: 10px 0;
+  padding: 0;
+}
+
+
 /*FOOTER*/
 
 .footer ul {
