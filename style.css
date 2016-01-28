@@ -21,6 +21,23 @@ html {
   margin: 0 auto;
 }
 
+.button {
+  font-size: 14px;
+  display: inline-block;
+  color: #0093FF;
+  background-color: black;
+  outline: 1px solid #0093FF;
+  text-decoration: none;
+  margin: 20px;
+  padding: 12px 20px;
+  border: none;
+}
+
+.button:hover {
+  color: white;
+  background-color: #0093FF;
+}
+
 p {
   font-size: 18px;
   margin: 10px 0;
