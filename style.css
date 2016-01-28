@@ -65,7 +65,14 @@ h5 {
   padding: 0;
 }
 
-h1,
+h1 {
+  font-size: 55px;
+  color: white;
+  margin-bottom: 18px;
+
+}
+
+
 h2 {
   color: white;
 }
