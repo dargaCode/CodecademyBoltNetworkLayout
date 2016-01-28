@@ -90,6 +90,38 @@ h5 {
   padding: 0;
 }
 
+/*JUMBOTRON*/
+
+.jumbotron {
+  margin: 0;
+  padding: 100px 0;
+}
+
+.jumbotron input {
+  font-size: 18px;
+  font-weight: 300;
+  color: white;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid white;
+  margin-top: 60px;
+  padding: 5px 12px;
+  width: 400px;
+}
+
+.jumbotron input:hover,
+.jumbotron input:focus {
+  border-color: #0093FF;
+}
+
+.jumbotron input::-webkit-input-placeholder {
+  color: #777777;
+}
+
+.jumbotron input::-moz-placeholder {
+  color: #777777;
+}
+
 /*GALLERY*/
 
 .gallery {
