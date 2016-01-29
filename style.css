@@ -88,6 +88,36 @@ h5 {
   padding: 0;
 }
 
+/*HEADER*/
+
+.header {
+  padding: 30px 0;
+}
+
+.header img {
+  width: 175px;
+  float: left;
+}
+
+.header ul {
+  list-style: none;
+  float: right;
+  margin: 0;
+  padding: 0 20px;
+}
+
+.header ul li {
+  display: inline;
+}
+
+.header ul li a {
+  font-size: 14px;
+  color: white;
+  text-decoration: none;
+  margin: 0 5px;
+  padding: 9px 20px;
+}
+
 /*JUMBOTRON*/
 
 .jumbotron {
