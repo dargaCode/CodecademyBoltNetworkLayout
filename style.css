@@ -28,8 +28,7 @@ html {
   background-color: black;
   outline: 1px solid #0093FF;
   text-decoration: none;
-  margin: 20px;
-  padding: 12px 20px;
+  padding: 9px 20px;
   border: none;
 }
 
@@ -68,7 +67,7 @@ h5 {
 h1 {
   font-size: 55px;
   color: white;
-  margin-bottom: 18px;
+  margin-bottom: 48px;
 
 }
 
@@ -104,7 +103,7 @@ h5 {
   background-color: transparent;
   border: none;
   border-bottom: 1px solid white;
-  margin-top: 60px;
+  margin: 60px 20px 0;
   padding: 5px 12px;
   width: 400px;
 }
