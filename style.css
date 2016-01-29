@@ -104,6 +104,7 @@ h5 {
   text-decoration: none;
   margin: 0 12px;
   padding: 3px 4px;
+  border-bottom: 1px solid black;
 }
 
 .header ul li:nth-child(2) a {
@@ -111,7 +112,7 @@ h5 {
 }
 
 .header ul li a:hover {
-  border-bottom: 1px solid;
+  border-bottom-color: inherit;
 }
 
 /*JUMBOTRON*/
