@@ -21,22 +21,6 @@ html {
   margin: 0 auto;
 }
 
-.button {
-  font-size: 14px;
-  display: inline-block;
-  color: #0093FF;
-  background-color: black;
-  outline: 1px solid #0093FF;
-  text-decoration: none;
-  padding: 9px 20px;
-  border: none;
-}
-
-.button:hover {
-  color: white;
-  background-color: #0093FF;
-}
-
 p {
   font-size: 18px;
   margin: 10px 0;
@@ -123,6 +107,24 @@ h5 {
 .jumbotron {
   margin: 0;
   padding: 100px 0;
+}
+
+.jumbotron a,
+.jumbotron button {
+  font-size: 14px;
+  display: inline-block;
+  color: #0093FF;
+  background-color: black;
+  outline: 1px solid #0093FF;
+  text-decoration: none;
+  padding: 9px 20px;
+  border: none;
+}
+
+.jumbotron a:hover,
+.jumbotron button:hover {
+  color: white;
+  background-color: #0093FF;
 }
 
 .jumbotron input {
