@@ -199,6 +199,10 @@ h5 {
   padding: 0;
 }
 
+.gallery ul li a:hover{
+  box-shadow: inset 0 0 0 15px #0093FF;
+}
+
 /*BANNER*/
 
 .banner {
