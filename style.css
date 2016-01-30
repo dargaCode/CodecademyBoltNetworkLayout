@@ -8,13 +8,14 @@ html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  transition: all .25s ease;
 }
 
 *,
 *:before,
 *:after {
   box-sizing: inherit;
-  transition: all .25s ease;
+  transition: inherit;
 }
 
 .container {
