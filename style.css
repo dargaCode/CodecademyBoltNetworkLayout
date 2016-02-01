@@ -390,7 +390,10 @@ h5 {
   .gallery ul li:nth-child(7) a {
     margin-left: 0;
     margin-right: 0;
-    width: 100%;
+    width: calc(100vw - 86px);
+    height: calc((100vw - 86px) * .5367);
+    min-width: 293px;
+    min-height: 154.35px;
   }
 
 /*BANNER*/
