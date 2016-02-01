@@ -344,7 +344,9 @@ h5 {
 
 /*FOOTER*/
 
-
+  .footer .column {
+    width: 28%;
+  }
 
 }
 
