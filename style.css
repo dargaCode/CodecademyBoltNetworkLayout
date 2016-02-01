@@ -340,7 +340,6 @@ h5 {
 
   body {
     background-color: #333333;
-    transition: none;
   }
 
 /*HEADER*/
@@ -352,10 +351,6 @@ h5 {
 
 
 /*GALLERY*/
-
-  .gallery ul li a {
-//    box-shadow: inset 0 0 0 20px white;
-  }
 
 
 
@@ -377,10 +372,6 @@ h5 {
     background-color: #444444;
   }
 
-  .container {
-//    padding: 0;
-  }
-
 /*HEADER*/
 
 
@@ -399,10 +390,7 @@ h5 {
   .gallery ul li:nth-child(7) a {
     margin-left: 0;
     margin-right: 0;
-    width: calc(100vw - 86px);
-    height: calc((100vw - 86px) * .5367);
-    min-width: 293px;
-    min-height: 154.35px;
+    width: 100%;
   }
 
 /*BANNER*/
