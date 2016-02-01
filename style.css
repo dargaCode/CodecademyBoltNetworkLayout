@@ -195,8 +195,6 @@ h5 {
   color: white;
   text-decoration: none;
   background-color: #333333;
-  background-size: cover;
-  background-repeat: no-repeat;
   width: 293px;
   height: 322px;
   margin: 16px 8px;
@@ -214,42 +212,60 @@ h5 {
 
 .gallery ul li:nth-child(1) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/the-avengers.jpg");
+  background-size: cover;
 }
 
 .gallery ul li:nth-child(2) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/harry-potter.jpg");
+  background-size: cover;
+
 }
 
 .gallery ul li:nth-child(3) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/frozen.jpg");
+  background-size: cover;
 }
 
 .gallery ul li:nth-child(4) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/iron-man.jpg");
+    background-size: cover;
+
 }
 
 .gallery ul li:nth-child(5) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/transformers.jpg");
+    background-size: cover;
+
 }
 
 .gallery ul li:nth-child(6) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/lord-of-the-rings.jpg");
+    background-size: cover;
+
 }
 
 .gallery ul li:nth-child(7) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/skyfall.jpg");
+    background-size: cover;
+
 }
 
 .gallery ul li:nth-child(8) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/the-dark-knight.jpg");
+    background-size: cover;
+
 }
 
 .gallery ul li:nth-child(9) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/pirates-of-the-caribbean.jpg");
+    background-size: cover;
+
 }
 
 .gallery ul li:nth-child(10) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/toy-story-3.jpg");
+  background-size: cover;
+
 }
 
 /*BANNER*/
