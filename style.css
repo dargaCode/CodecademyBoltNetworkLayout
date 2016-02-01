@@ -406,3 +406,37 @@ h5 {
   }
 
 }
+
+@media (max-width: 500px) {
+
+  body {
+    background-color: #555555;
+  }
+
+/*HEADER*/
+
+
+
+/*JUMBOTRON*/
+
+
+
+/*GALLERY*/
+
+  .gallery ul li a,
+  .gallery ul li:nth-child(1) a,
+  .gallery ul li:nth-child(7) a {
+    margin-left: -18px;
+    margin-right: -18px;
+  }
+
+
+/*BANNER*/
+
+
+
+/*FOOTER*/
+
+
+
+}
