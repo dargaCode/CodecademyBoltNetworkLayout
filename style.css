@@ -288,3 +288,90 @@ h5 {
 .footer ul li a:hover {
   color: white;
 }
+
+/*MEDIA QUERIES*/
+/*common breaks: 768 992 1200 */
+
+@media (max-width: 1200px) {
+
+  body {
+    background-color: #222222;
+  }
+
+/*HEADER*/
+
+
+
+/*JUMBOTRON*/
+
+
+
+/*GALLERY*/
+
+
+
+/*BANNER*/
+
+
+
+/*FOOTER*/
+
+
+
+}
+
+@media (max-width: 992px) {
+
+  body {
+    background-color: #333333;
+  }
+
+/*HEADER*/
+
+
+
+/*JUMBOTRON*/
+
+
+
+/*GALLERY*/
+
+
+
+/*BANNER*/
+
+
+
+/*FOOTER*/
+
+
+
+}
+
+@media (max-width: 768px) {
+
+  body {
+    background-color: #444444;
+  }
+
+/*HEADER*/
+
+
+
+/*JUMBOTRON*/
+
+
+
+/*GALLERY*/
+
+
+
+/*BANNER*/
+
+
+
+/*FOOTER*/
+
+
+
+}
