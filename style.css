@@ -388,8 +388,8 @@ h5 {
 
   .gallery ul li:nth-child(1) a,
   .gallery ul li:nth-child(7) a {
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 0;
+    margin-right: 0;
     width: 100%;
   }
 
