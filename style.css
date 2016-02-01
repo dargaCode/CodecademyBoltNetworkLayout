@@ -366,7 +366,16 @@ h5 {
 
 /*GALLERY*/
 
+  .gallery ul {
+    margin: 0;
+  }
 
+  .gallery ul li:nth-child(1) a,
+  .gallery ul li:nth-child(7) a {
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+  }
 
 /*BANNER*/
 
