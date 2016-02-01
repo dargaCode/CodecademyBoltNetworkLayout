@@ -181,7 +181,7 @@ h5 {
 
 .gallery ul {
   list-style: none;
-  margin: 0;
+  margin: 0 -30px;
   padding: 0;
 }
 
