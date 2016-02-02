@@ -43,8 +43,7 @@ p {
 h1,
 h2,
 h3,
-h4,
-h5 {
+h4 {
   font-weight: 100;
   color: #0093FF;
   margin: 0;
@@ -58,16 +57,12 @@ h1 {
 
 }
 
-h2 {
-  color: white;
-}
-
-h3,
-h4 {
+h2,
+h3 {
   font-size: 32px;
 }
 
-h5 {
+h4 {
   font-size: 18px;
   color: white;
   text-align: left;
