@@ -389,10 +389,14 @@ h5 {
     margin: 0;
   }
 
+  .gallery ul li a {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
   .gallery ul li:nth-child(1) a,
   .gallery ul li:nth-child(7) a {
-    margin-left: 0;
-    margin-right: 0;
+    margin: 0;
     width: calc(100vw - 86px);
     height: calc((100vw - 86px) * .5367);
     min-width: 293px;
@@ -450,8 +454,7 @@ h5 {
   .gallery ul li a,
   .gallery ul li:nth-child(1) a,
   .gallery ul li:nth-child(7) a {
-    margin-left: -18px;
-    margin-right: -18px;
+    margin: 0 -18px;
   }
 
 
