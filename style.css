@@ -421,6 +421,24 @@ h5 {
 
 /*HEADER*/
 
+  .header img {
+    float: none;
+  }
+
+  .header ul {
+    margin: 0;
+    padding: 0;
+    float: none;
+  }
+
+  .header ul li {
+    display: block;
+  }
+
+  .header ul li a {
+    display: block;
+    margin-top: 15px;
+  }
 
 
 /*JUMBOTRON*/
