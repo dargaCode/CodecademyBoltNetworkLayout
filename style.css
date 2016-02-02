@@ -313,6 +313,10 @@ h4 {
     background-color: #222222;
   }
 
+  h1 {
+    font-size: 50px;
+  }
+
 /*HEADER*/
 
 
@@ -341,6 +345,9 @@ h4 {
     background-color: #333333;
   }
 
+  h1 {
+    font-size: 44px;
+  }
 /*HEADER*/
 
 
@@ -371,9 +378,14 @@ h4 {
     background-color: #444444;
   }
 
+  h1 {
+    font-size: 38px;
+  }
+
   .p {
     font-size: 16px;
   }
+
 /*HEADER*/
 
 
