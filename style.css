@@ -81,8 +81,12 @@ h5 {
   padding: 50px 0 30px;
 }
 
-.header img {
+.header .container > a {
   width: 175px;
+  height: 32.883px;
+  font-size: 0;
+  background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/logo.svg") center;
+  background-size: cover;
   float: left;
   padding: 0;
   margin: -5px 0 0;
@@ -425,8 +429,10 @@ h5 {
 
 /*HEADER*/
 
-  .header img {
+  .header .container > a {
     float: none;
+    display: block;
+    margin: -5px auto 0;
   }
 
   .header ul {
