@@ -427,7 +427,7 @@ h4 {
   .header .container > a {
     float: none;
     display: block;
-    margin: -5px auto 0;
+    margin: -5px auto 25px;
   }
 
   .header ul {
