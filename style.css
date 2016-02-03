@@ -75,6 +75,7 @@ h4 {
 
 .header {
   padding: 50px 0 30px;
+  background-color: #141414;
 }
 
 .header .container > a {
@@ -106,7 +107,7 @@ h4 {
   text-decoration: none;
   margin: 0 12px;
   padding: 3px 4px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #141414;
 }
 
 .header ul li:nth-child(2) a {
