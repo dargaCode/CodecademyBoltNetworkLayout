@@ -392,7 +392,19 @@ h4 {
 
 /*JUMBOTRON*/
 
+  .jumbotron a,
+  .jumbotron button {
+    display: block;
+    width: 120px;
+    margin: 0 auto;
+  }
 
+  .jumbotron input {
+    display: block;
+    margin: 30px auto;
+    width: 100%;
+    text-align: center;
+  }
 
 /*GALLERY*/
 
