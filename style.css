@@ -304,10 +304,6 @@ h4 {
 
   /*GLOBAL*/
 
-  body {
-    background-color: #222222;
-  }
-
   h1 {
     font-size: 50px;
   }
@@ -327,10 +323,6 @@ h4 {
 @media (max-width: 979px) {
 
   /*GLOBAL*/
-
-  body {
-    background-color: #333333;
-  }
 
   h1 {
     font-size: 44px;
@@ -355,10 +347,6 @@ h4 {
 @media (max-width: 668px) {
 
   /*GLOBAL*/
-
-  body {
-    background-color: #444444;
-  }
 
   h1 {
     font-size: 38px;
@@ -423,10 +411,6 @@ h4 {
 @media (max-width: 500px) {
 
   /*GLOBAL*/
-
-  body {
-    background-color: #555555;
-  }
 
   /*HEADER*/
 
