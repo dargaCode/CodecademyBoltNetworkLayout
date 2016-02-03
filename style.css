@@ -54,7 +54,6 @@ h1 {
   font-size: 55px;
   color: white;
   margin-bottom: 48px;
-
 }
 
 h2,
@@ -217,7 +216,6 @@ h4 {
 .gallery ul li:nth-child(2) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/harry-potter.jpg");
   background-size: cover;
-
 }
 
 .gallery ul li:nth-child(3) a {
@@ -228,43 +226,36 @@ h4 {
 .gallery ul li:nth-child(4) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/iron-man.jpg");
     background-size: cover;
-
 }
 
 .gallery ul li:nth-child(5) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/transformers.jpg");
     background-size: cover;
-
 }
 
 .gallery ul li:nth-child(6) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/lord-of-the-rings.jpg");
     background-size: cover;
-
 }
 
 .gallery ul li:nth-child(7) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/skyfall.jpg");
     background-size: cover;
-
 }
 
 .gallery ul li:nth-child(8) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/the-dark-knight.jpg");
     background-size: cover;
-
 }
 
 .gallery ul li:nth-child(9) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/pirates-of-the-caribbean.jpg");
     background-size: cover;
-
 }
 
 .gallery ul li:nth-child(10) a {
   background: url("https://s3.amazonaws.com/codecademy-content/projects/bolt-network/toy-story-3.jpg");
   background-size: cover;
-
 }
 
 /*BANNER*/
@@ -317,25 +308,15 @@ h4 {
     font-size: 50px;
   }
 
-/*HEADER*/
+  /*HEADER*/
 
+  /*JUMBOTRON*/
 
+  /*GALLERY*/
 
-/*JUMBOTRON*/
+  /*BANNER*/
 
-
-
-/*GALLERY*/
-
-
-
-/*BANNER*/
-
-
-
-/*FOOTER*/
-
-
+  /*FOOTER*/
 
 }
 
@@ -348,23 +329,16 @@ h4 {
   h1 {
     font-size: 44px;
   }
-/*HEADER*/
 
+  /*HEADER*/
 
+  /*JUMBOTRON*/
 
-/*JUMBOTRON*/
+  /*GALLERY*/
 
+  /*BANNER*/
 
-
-/*GALLERY*/
-
-
-
-/*BANNER*/
-
-
-
-/*FOOTER*/
+  /*FOOTER*/
 
   .footer .column {
     width: 28%;
@@ -386,11 +360,9 @@ h4 {
     font-size: 16px;
   }
 
-/*HEADER*/
+  /*HEADER*/
 
-
-
-/*JUMBOTRON*/
+  /*JUMBOTRON*/
 
   .jumbotron a,
   .jumbotron button {
@@ -406,7 +378,7 @@ h4 {
     text-align: center;
   }
 
-/*GALLERY*/
+  /*GALLERY*/
 
   .gallery ul {
     margin: 0;
@@ -426,13 +398,13 @@ h4 {
     min-height: 154.35px;
   }
 
-/*BANNER*/
+  /*BANNER*/
 
   .banner {
     padding: 100px 0;
   }
 
-/*FOOTER*/
+  /*FOOTER*/
 
   .footer .column {
     width: 33%;
@@ -446,7 +418,7 @@ h4 {
     background-color: #555555;
   }
 
-/*HEADER*/
+  /*HEADER*/
 
   .header .container > a {
     float: none;
@@ -469,12 +441,9 @@ h4 {
     margin-top: 15px;
   }
 
+  /*JUMBOTRON*/
 
-/*JUMBOTRON*/
-
-
-
-/*GALLERY*/
+  /*GALLERY*/
 
   .gallery ul li a,
   .gallery ul li:nth-child(1) a,
@@ -482,13 +451,8 @@ h4 {
     margin: 0 -18px;
   }
 
+  /*BANNER*/
 
-/*BANNER*/
-
-
-
-/*FOOTER*/
-
-
+  /*FOOTER*/
 
 }
