@@ -1,3 +1,5 @@
+/*GLOBAL*/
+
 body,
 html {
   font-family: Oxygen;
@@ -300,6 +302,8 @@ h4 {
 
 @media (max-width: 1200px) {
 
+  /*GLOBAL*/
+
   body {
     background-color: #222222;
   }
@@ -321,6 +325,8 @@ h4 {
 }
 
 @media (max-width: 979px) {
+
+  /*GLOBAL*/
 
   body {
     background-color: #333333;
@@ -347,6 +353,8 @@ h4 {
 }
 
 @media (max-width: 668px) {
+
+  /*GLOBAL*/
 
   body {
     background-color: #444444;
@@ -413,6 +421,8 @@ h4 {
 }
 
 @media (max-width: 500px) {
+
+  /*GLOBAL*/
 
   body {
     background-color: #555555;
