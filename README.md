@@ -1,7 +1,7 @@
 # Bolt Network Page Layout
 <strong>Language: HTML/CSS</strong>
 
-Here’s another css layout based on an example from codecademy.
+Here’s another css layout based on <a href="https://s3.amazonaws.com/codecademy-content/projects/bolt-network/index.html">an example from codecademy</a>.
 
 I decided to add a lot of hover behavior and responsiveness improvements, and I’m proud of how the end result came out.
 
