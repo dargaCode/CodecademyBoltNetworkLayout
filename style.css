@@ -11,6 +11,7 @@ html {
   padding: 0;
   box-sizing: border-box;
   transition: all .25s ease;
+  transition-property: color, background, border, box-shadow;
 }
 
 *,
@@ -158,6 +159,7 @@ h4 {
 .jumbotron input:hover,
 .jumbotron input:focus {
   border-color: #0093FF;
+  outline: none;
 }
 
 .jumbotron input::-webkit-input-placeholder {
